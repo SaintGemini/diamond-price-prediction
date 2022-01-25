@@ -1,6 +1,6 @@
 # diamond-price-prediction
 
-An analysis of diamond data and how it correlates to the price of a stone.
+An analysis of diamond data and how the 4 C's correlates to the price of a stone.
 
 ## _Installation Requirements_
 
