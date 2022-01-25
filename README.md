@@ -20,4 +20,4 @@ https://www.kaggle.com/harshitlakhani/natural-diamonds-prices-images
 ## _How to Follow Along with the Project_
 * Clone repository to local machine
 * Open the jupyter notebook file (Making sure Jupyter Notebook is already installed on local machine)
-* Follow along with my blog post here: 
+* Follow along with my blog post here: https://medium.com/@chacone96/what-you-should-know-before-buying-that-diamond-d3bc92a5a95b
