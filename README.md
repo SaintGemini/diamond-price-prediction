@@ -1,6 +1,16 @@
 # diamond-price-prediction
 
-An analysis of diamond data and how the 4 C's correlates to the price of a stone.
+### For anyone who hasn't been in the gem industry, it might be hard to know what determines the price of diamonds. In this notebook we will explore what exactly goes into pricing a diamond and how much each aspect affects the price.
+
+* Question 1: Does a certain shape of diamond cost more than another?
+* Question 2: How much do the 4 C's affect the price of a diamond?
+* Question 3: Is it possible to know if you're getting a good price?
+
+## Acknowledgments
+Thank you to Kaggle and Harshit Lakhani for the data set which can be found here: https://www.kaggle.com/harshitlakhani/natural-diamonds-prices-images
+
+Thank you to the GIA for all the freely given information and blog posts about diamond grading.
+All of their info can be found here: https://4cs.gia.edu/en-us/blog/gia-diamond-grading-scales/
 
 ## _Installation Requirements_
 
