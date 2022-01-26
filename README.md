@@ -1,6 +1,10 @@
 # diamond-price-prediction
 
-An analysis of diamond data and how the 4 C's correlates to the price of a stone.
+### For anyone who hasn't been in the gem industry, it might be hard to know what determines the price of diamonds. In this notebook we will explore what exactly goes into pricing a diamond and how much each aspect affects the price.
+
+* Question 1: Does a certain shape of diamond cost more than another?
+* Question 2: How much do the 4 C's affect the price of a diamond?
+* Question 3: Is it possible to know if you're getting a good price?
 
 ## _Installation Requirements_
 
